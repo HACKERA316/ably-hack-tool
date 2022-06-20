@@ -1,8 +1,6 @@
-# what does this tool do
+﻿# what does this tool do
 It is used to find the ip address of a site or to find all the information about the site and for many reasons. These reasons are below.
 listed
-
-![](images/Screenshot_1.png)
 
 1. [PHONE SCANNER && ATTACK]()
 2. [İP SCANER]()
