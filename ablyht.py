@@ -1,5 +1,6 @@
 class Bcolor:
-  "hello" = 'hello'
+  BLUE = 'hello'
+  RED  = 'RED'
 
 
 
