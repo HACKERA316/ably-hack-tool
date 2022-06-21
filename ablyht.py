@@ -1,6 +1,3 @@
-class cColors:
-    RED: '\021 [31'
-
 banner = """
 ably Hack Tool
 Bu yazılım henüs yapım aşamasında Lütfen tam sürümü cıkarken bekleyiniz türkiye hacker adayları için mükemmel bir pakkettir
