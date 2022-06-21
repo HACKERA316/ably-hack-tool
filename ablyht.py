@@ -7,8 +7,3 @@ ably Hack Tool
 print(banner)
 
 ipaddress = input("Lütfen Bir ip adresi giriniz #> ")
-
-print(cColors.RED+"blue")
-
-
-
