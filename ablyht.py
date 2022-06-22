@@ -1,6 +1,9 @@
+from stringcolor import *
 banner = """
 ably Hack Tool
-Bu yazılım henüs yapım aşamasında Lütfen tam sürümü cıkarken bekleyiniz türkiye hacker adayları için mükemmel bir pakkettir
+---------------------
+
+Bu yazılım henüz yapım aşamasında Lütfen tam sürümü cıkanadek bekleyiniz türkiye hacker adayları için mükemmel bir pakkettir
 hergün yada her hafta güncellenmektedir
 
 HTTPS://GİTHUB.COM/HACKERA316
@@ -19,7 +22,4 @@ LICENSE Apache-2.0 license
 """
 print(banner)
 
-ipaddress = input("Lütfen bir Secenek Giriniz #> ")
-
-
-
+print(cs("wild", "pink")+" stuff")
