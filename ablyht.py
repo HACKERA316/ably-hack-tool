@@ -41,6 +41,7 @@ banner = """
 """
 ablySelect = input("hello world #> ")
 
+print("select to "+ablySelect+" number")
 
 
 
