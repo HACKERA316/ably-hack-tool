@@ -35,13 +35,8 @@ banner = """
 3. ablyht sızma testi
 4. yapım aşamasında
 
-
-
-
 """
 ablySelect = input("hello world #> ")
-
-print("select to "+ablySelect+" number")
 
 
 
