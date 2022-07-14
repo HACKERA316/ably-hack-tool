@@ -19,7 +19,7 @@
 #
 # <<< BU YAZILIMI KOPYALAMAK,COĞALTMAK YADA TEKRAR DÜZENLEYİP İZİNSİZ  PAYLAŞILMASI  YASAKTIR >>>
 # """
-version = "0.0.1-alpha build ()"
+version = "0.0.1-alpha build (bea6109)"
 
 
 banner = f"""
@@ -29,8 +29,8 @@ banner = f"""
 ██╔══██║██╔══██╗██║ -  ╚██╔╝  --  ██╔══██║██╔══██║██║     ██╔═██╗  ----  ██║   ██║   ██║██║   ██║██║     
 ██║  ██║██████╔╝███████╗██║       ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ╚██████╔╝╚██████╔╝███████╗
 ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
-                                                                         https://github.com/HACKERA316
-                                                                         SAHİPLİ YAZILIM - {version}
+                                                            https://github.com/HACKERA316/ably-hack-tool
+                                                            SAHİPLİ YAZILIM - {version}
 ----------------------------------------------------------------------------------------------------------
 1. ablyht nmap(nmapablyht) Taraması
 2. ablyht telefon taraması işlemleri
