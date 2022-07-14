@@ -1,1 +1,3 @@
-print("nmap ablyht")
+ablyht_nmap = """
+
+"""
