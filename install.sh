@@ -1,8 +1,6 @@
-#git clone https://github.com/HACKERA316/ably-hack-tool.git
+git clone https://github.com/HACKERA316/ably-hack-tool.git
+$version="1.0.0":
 
-
-"$version" = "":
-
-if [ "$version" ];then
+if [ $version == "1.0.0" ];then
   echo "new version"
 fi
